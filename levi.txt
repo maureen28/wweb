@@ -1,0 +1,14 @@
+QUICK QUIZ
+
+Commands
+apt -h
+apt
+sudo
+mkdir
+cd
+touch
+npm install
+cat - enable as to see the contents of a file
+nano - text editor that works in the terminal
+
+// Git Commands
