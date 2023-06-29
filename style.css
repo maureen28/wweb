@@ -1,0 +1,43 @@
+section{
+    color: azure;
+    font: 1em sans-serif;
+}
+
+
+#lorem{
+    background-color: blue;
+    font-style: italic;
+    color: beige;
+    text-align: center;
+    margin: 10px;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.azimio{
+    background-color: aqua;
+}
+p{
+    font-size: 2rem;
+    text-align: justify;
+}
+span{
+    justify-content: center;
+    color: brown;
+}
+
+.pin{
+    width: 500px;
+    background-position: center;
+    border-left:30px ;
+    justify-content: center;
+    border-top: 25px;
+    margin:0;
+    padding-right: 1px;
+}
+#pinn{
+    border-radius: 20px;
+    width: 1000px;
+    z-index:-5;
+    margin-left: 20px;
+    position: absolute;
+}

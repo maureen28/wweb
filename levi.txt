@@ -12,3 +12,9 @@ cat - enable as to see the contents of a file
 nano - text editor that works in the terminal
 
 // Git Commands
+
+
+
+// Selectors
+Id - unique 
+Class -as
